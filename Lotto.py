@@ -13,3 +13,4 @@ gezogene_zahlen.sort()
 
 print(lottozahlen)
 print(gezogene_zahlen)
+print(random.randint(0,9))
